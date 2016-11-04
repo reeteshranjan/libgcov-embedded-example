@@ -1,0 +1,3 @@
+[submodule "libgcov-embedded"]
+	path = libgcov-embedded
+	url = git@github.com:reeteshranjan/libgcov-embedded.git
